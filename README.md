@@ -25,11 +25,9 @@
   ##
   
 <div align="center">
-
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maiagabrielc&repo=dsmovie)](https://github.com/maiagabrielc/dsmovie)
 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maiagabrielc&repo=trybe-exercises)](https://github.com/maiagabrielc/trybe-exercises)
-
 </div>
 
 
