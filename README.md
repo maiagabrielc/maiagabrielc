@@ -26,11 +26,15 @@
   
 <div align="center">
   <a href="https://github.com/maiagabrielc/dsmovie" target="_blank">
+    
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maiagabrielc&repo=dsmovie)](https://github.com/maiagabrielc)
+    
   </a>
   
   <a href="https://github.com/maiagabrielc/trybe-exercises" target="_blank">
+    
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maiagabrielc&repo=trybe-exercises)](https://github.com/maiagabrielc)
+    
   </a>
   
 </div>
